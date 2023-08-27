@@ -5,3 +5,6 @@ Used Unet architecture https://github.com/nikhilroxtomar/Brain-Tumor-Segmentatio
 
 The CNN have to be trained in more epochs to get better results.
 In future next training also I want to add dice coefficient to get the better view of the results.
+
+In the future I would like to implement my onw Unet for better results.
+
